@@ -1,0 +1,41 @@
+[00:00] Doctor: Hi John, come on in and have a seat. So, tell me what brings you in today?
+[00:06] John: Well, Doctor, I've been having this persistent cough for a few weeks now, and it's just not going away.
+[00:13] Doctor: Okay. Is it a dry cough, or are you bringing anything up?
+[00:17] John: Umm, it's mostly dry, but sometimes, especially in the mornings, I cough up a little bit of, like, clear phlegm.
+[00:26] Doctor: I see. And are you experiencing any other symptoms alongside the cough? Any shortness of breath?
+[00:32] John: Yeah, that's the other thing. I've been feeling a bit short of breath lately, especially when I'm doing anything physical, like walking up the stairs.
+[00:42] Doctor: Hmm, okay. Any chest pain or tightness?
+[00:46] John: Not really pain, but, umm, a bit of tightness, yeah. Like, sometimes it feels a little bit difficult to take a deep breath.
+[00:55] Doctor: Are you a smoker, John?
+[00:58] John: I used to be, but I quit about, ah, five years ago.
+[01:03] Doctor: That's good to hear. Have you been around anyone who's been sick recently?
+[01:08] John: Not that I know of.
+[01:11] Doctor: Alright. Have you noticed any fever, chills, or night sweats?
+[01:16] John: No, nothing like that.
+[01:19] Doctor: Okay. And how's your overall energy level been?
+[01:23] John: Pretty low, to be honest. I feel tired a lot of the time.
+[01:29] Doctor: Okay. And appetite? Any changes there?
+[01:33] John: Not really. It's been about the same, I think.
+[01:38] Doctor: Alright. So, just to recap, you've had a persistent dry cough for a few weeks, some shortness of breath, particularly with exertion, a little bit of chest tightness, and you're feeling generally tired. Is that correct?
+[01:51] John: Yes, that's right.
+[01:54] Doctor: Okay, John. I'm going to listen to your lungs now, so if you could just take some deep breaths for me.
+[02:35] Doctor: Okay, I'm hearing some slight wheezing in your lungs. Nothing too alarming, but it's definitely something we need to investigate further.
+[02:45] John: Oh, okay. Is it serious?
+[02:49] Doctor: It's hard to say for sure without some tests. It could be a number of things, from a simple respiratory infection to something like asthma or bronchitis. We'll want to rule out any underlying issues.
+[03:02] John: I understand. So, what do we do next?
+[03:06] Doctor: Well, I'd like to order a few tests to get a better picture of what's going on. I'm going to order a chest X-ray, that will give us a good look at your lungs, and also a sputum culture. That is to see if there's any infection present.
+[03:21] John: Okay. How soon can I get those done?
+[03:25] Doctor: I'm going to order these through dAIgnostic. It's a platform we use that partners with a network of labs. They'll be able to get you scheduled very quickly, usually within the next day or two. They'll even come to your home.
+[03:39] John: Oh, that's convenient.
+[03:42] Doctor: Yes, it is. So, I'm just going to enter your information here. Let's see... John Doe, date of birth 01/01/1980, and your medical record number is 123456789, right?
+[03:57] John: Yes, that's correct.
+[04:00] Doctor: Okay. And your chief complaint is persistent cough, shortness of breath, and chest tightness. In your history notes, I'll also put in there that you've been experiencing a gradual cognitive decline for about a year now. Difficulty remembering recent events, names, appointments, multitasking, problem-solving, and so on. Also, I've noted that you've been experiencing mood swings, irritability, and periods of apathy. Past medical history, you've got hypertension, hyperlipidemia, and a family history of Alzheimer's disease. Now, in your physical examination notes, I'm going to put in that you're well-nourished, alert, and oriented to person, place, and time. For your neurological examination, I'll put that there is mild impairment of short-term memory, attention, and executive function. Also mild mood liability. With normal cranial nerve, motor, sensory examinations, and reflexes.
+[05:17] John: That sounds about right.
+[05:20] Doctor: Okay. Now, I'm selecting the tests: chest X-ray and sputum culture. And I'm marking this as priority, so they should contact you pretty quickly to arrange the appointments.
+[05:33] John: Okay, great.
+[05:35] Doctor: Alright, John. Is there anything else I can help you with today?
+[05:40] John: No, I think that's all for now.
+[05:43] Doctor: Okay, well, you should hear from dAIgnostic very soon. Once we get the results back, we'll schedule a follow-up appointment to discuss them and decide on the best course of action.
+[05:54] John: Okay, Doctor. Thank you so much.
+[05:58] Doctor: You're welcome, John. Take care, and we'll talk soon.
+[06:00] John: Thanks, you too.
